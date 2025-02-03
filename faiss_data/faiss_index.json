@@ -1,0 +1,1 @@
+{"faiss_config_path": "./faiss_data/faiss_index.json", "sql_url": "sqlite:///./faiss_data/faiss_document_store.db", "embedding_dim": 768, "faiss_index_factory_str": "HNSW32", "return_embedding": true}
