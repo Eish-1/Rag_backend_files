@@ -1,12 +1,4 @@
-# Motivation
 
-Kher ho na ho baat alag hai, but ab sign up kara hai toh have to get things done
-
-The work is quite meaningful and I will get to learn new things.
-I will get to learn how the infratructure of chatbot like system
-is built and gets used. RAG implementation, Ollama and models.
-
-# 3:45pm (Day 1)
 
 - Feature to access the pre generated "vector embeddings"
   Instead of creating the embeddings again and again.
